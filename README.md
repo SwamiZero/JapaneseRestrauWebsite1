@@ -14,7 +14,7 @@ A visually appealing and interactive Japanese food website built using HTML, CSS
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/japanese-food-website.git
+   git clone https://github.com/ritikZ18/japanese-food-website.git
    cd japanese-food-website
    ```
 
